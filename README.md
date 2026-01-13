@@ -14,7 +14,7 @@ Typical reasons to purchase:
 
 ---
 
-## Why Buy Versitron 10/100Base Fast Ethernet Media Converters?
+## Why Buy 10/100Base Fast Ethernet Media Converters?
 
 Standard copper Ethernet cabling is limited in distance and susceptible to interference in industrial environments. Versitron 10/100Base Fast Ethernet media converters provide long-distance, high-speed connectivity while maintaining signal integrity and industrial-grade reliability.
 
